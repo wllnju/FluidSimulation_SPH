@@ -2,7 +2,9 @@ FluidSimulation_SPH
 ===================
 Implement Particle-Based (SPH) Fluid Simulation in C++/OpenGL.
 
-Simulation example showed by `output_0.05.mpg`
+All of the codes are in the fold `source code`
+
+Simulation example is showed by `output_0.05.mpg`
 
 Here is the simulation steps:
 ![plot of Picture1](Picture1.png)
